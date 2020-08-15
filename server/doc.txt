@@ -1,0 +1,4 @@
+mkdir server 
+yarn add @types/express -D
+yarn add knex sqlite3
+yarn knex:migrate
