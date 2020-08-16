@@ -53,7 +53,7 @@ $ git clone https://github.com/LuisEduJulio/Semana-Next-Level-Week-II
 ### 📦 Rode a API
 
 ```bash
-# Vá para a pasta do servidor
+# Pasta do servidor
 $ cd Proffy/server
 
 # Instale as depedencias
@@ -68,7 +68,7 @@ Acesse a API: http://localhost:3333/
 ### 💻 Rode o Project Web
 
 ```bash
-# Vá para a pasta web
+# Pasta web
 $ cd Proffy/web
 
 # Instale as depedencias
@@ -85,7 +85,7 @@ Acesse: http://localhost:3000/
 Para rodar o projeto mobile você precisa de um celular com o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instlado ou um emulador android/ios.
 
 ```bash
-# Vá para a pasta mobile
+# Pasta mobile
 $ cd Proffy/mobile
 
 # Instale as depedencias
