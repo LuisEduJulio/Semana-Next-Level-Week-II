@@ -7,7 +7,7 @@
   </sub>
 </div>
 
-# :pushpin: Tabela de Conteúdo
+# :pushpin: Links
 
 - [Tecnologias](#computer-tecnologias)
 - [Funcionalidades](#rocket-funcionalidades)
