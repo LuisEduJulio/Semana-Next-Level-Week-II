@@ -78,7 +78,7 @@ $ yarn install
 $ yarn start
 ```
 
-Acesse: http://localhost:3000/ para ver o resultado.
+Acesse: http://localhost:3000/
 
 ### 📱 Run Mobile Project
 
