@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/LuisEduJulio">RLuis Eduardo</a>
+    <a href="https://github.com/LuisEduJulio">Luis Eduardo</a>
   </sub>
 </div>
 
